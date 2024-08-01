@@ -95,4 +95,3 @@ for _ in range(int(input())):
             arest.append([path[current][-1], current])
             path[current].pop()
         print()
-print()
