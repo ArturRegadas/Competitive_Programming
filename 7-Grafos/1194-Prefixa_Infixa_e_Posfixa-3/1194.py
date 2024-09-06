@@ -2,7 +2,7 @@
 
 repeat=int(input())
 
-def p_i(infixa, proc, size):
+def p_i(infixa, proc, size) -> int:
     for i in range(0, size, +1):
         if infixa[i]==proc:
             return i-1
