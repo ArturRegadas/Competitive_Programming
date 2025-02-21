@@ -36,7 +36,6 @@ def CreateCommand(ans:dict) -> str:
             command+=f"<tr><th>C++              </th><th>{"✅" if ".cpp\n" in ans[i][j] else "🟥"}</th></tr>\n"
             command+=f"<tr><th>C#               </th><th>{"✅" if ".cs\n" in ans[i][j] else "🟥"}</th></tr>\n"
             command+=f"<tr><th>Python           </th><th>{"✅" if ".py\n" in ans[i][j] else "🟥"}</th></tr>\n"
-            command+=f"<tr><th>JavaScript       </th><th>{"✅" if ".js\n" in ans[i][j] else "🟥"}</th></tr>\n"
             command+=f"<tr><th>Java             </th><th>{"✅" if ".java\n" in ans[i][j] else "🟥"}</th></tr></table></u>\n"
             command+="</details></ul>"
         command+="</details></ul>"
