@@ -59,52 +59,71 @@ node* GetMaxNode(node* no){
     return GetMaxNode(no->right);
 }
 
-void RemoveOfTree(node* no, int data){
+void RemoveOfTree(node* &no, int data) {
     node* position = InTree(no, data);
+    if (!position || *position->val == -1) return;
+
     node* parent = position->parent;
-    if(*position->val==-1)return;
-    
-    if(position->left==NULL && position->right==NULL){
-        if(data == *no->val){
+
+    if (!position->left && !position->right) { 
+        if (position == no) {
             no = nullNode();
-            return;
         }
-        if(data<*parent->val){
-            parent->left=NULL;
-            return;
+        else if (data < *parent->val) {
+            parent->left = NULL;
         }
-        parent->right=NULL;
+        else {
+            parent->right = NULL;
+        }
         return;
     }
-    if(position->left!=NULL && position->right==NULL){
-        if(data == *no->val){
-            no = no->left;
-            return;
+
+    if (position->left && !position->right) { 
+        if (position == no) {
+            no = position->left;
+            no->parent = NULL;
         }
-        if(data<*parent->val){
-            parent->left=position->left;
-            return;
+        else if (data < *parent->val) {
+            parent->left = position->left;
         }
-        parent->right = position->left;
-        return;
-        
-    }
-    if(position->left==NULL && position->right!=NULL){
-        if(data == *no->val){
-            no = no->right;
-            return;
+        else {
+            parent->right = position->left;
         }
-        if(data<*parent->val){
-            parent->left=position->right;
-            return;
-        }
-        parent->right = position->right;
+        position->left->parent = parent;
         return;
     }
+
+    if (!position->left && position->right) { 
+        if (position == no) {
+            no = position->right;
+            no->parent = NULL;
+        }
+        else if(data < *parent->val) {
+            parent->left = position->right;
+        }
+        else {
+            parent->right = position->right;
+        }
+        position->right->parent = parent;
+        return;
+    }
+
     node* maxNode = GetMaxNode(position->left);
     swap(*position->val, *maxNode->val);
-    printf("%d%d",*position->val, *maxNode->val);
+
+    node* maxParent = maxNode->parent;
+    if (maxParent->right == maxNode) {
+        maxParent->right = maxNode->left;
+        if(maxNode->right)maxNode->right->parent = maxParent;
+    }
+    else{
+        maxParent->left = maxNode->left;
+    }
+    
+    if (maxNode->left)maxNode->left->parent = maxParent;
+    
 }
+
 
 
 
