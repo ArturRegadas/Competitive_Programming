@@ -1,17 +1,19 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <stdio.h>
+int max(int a, int b){
+    return (a>b)?a:b;
+}
 
 int main(){
     int pedidos, maxPizza;
 
     while(1){
         scanf("%d", &pedidos);if(!pedidos)return 0;
-        vector<int> tmp(pedidos);
-        vector<int> pizzas(pedidos);
+        int tmp[1000];
+        int pizzas[1000];
         scanf("%d", &maxPizza);
         for(int i =0;i<pedidos;i++)scanf("%d%d", &tmp[i], &pizzas[i]);
 
-        vector<vector<int>> dp(pedidos+1, vector<int>(maxPizza+1, 0));
+        int dp[1000][1000];
         for(int i = 0; i < pedidos; i++){
             for(int j = 0; j <= maxPizza; j++){
                 if(j >= pizzas[i])  
