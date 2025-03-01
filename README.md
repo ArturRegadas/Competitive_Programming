@@ -243,6 +243,18 @@ São as embaixadinha da programação, não serve pra nada, não define jogo, ca
 <tr><th>C#               </th><th>✅</th></tr>
 <tr><th>Python           </th><th>✅</th></tr>
 <tr><th>Java             </th><th>🟥</th></tr></table></ul>
+</details></ul><ul><details><summary>1087-Dama-4</summary>
+<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<tr><th>C++              </th><th>✅</th></tr>
+<tr><th>C#               </th><th>🟥</th></tr>
+<tr><th>Python           </th><th>🟥</th></tr>
+<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+</details></ul><ul><details><summary>1089-Loop_Musical-2</summary>
+<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<tr><th>C++              </th><th>✅</th></tr>
+<tr><th>C#               </th><th>🟥</th></tr>
+<tr><th>Python           </th><th>🟥</th></tr>
+<tr><th>Java             </th><th>🟥</th></tr></table></ul>
 </details></ul><ul><details><summary>1091-Divisão_da_Nlogônia-1</summary>
 <ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
@@ -261,18 +273,36 @@ São as embaixadinha da programação, não serve pra nada, não define jogo, ca
 <tr><th>C#               </th><th>🟥</th></tr>
 <tr><th>Python           </th><th>✅</th></tr>
 <tr><th>Java             </th><th>🟥</th></tr></table></ul>
+</details></ul><ul><details><summary>1171-Frequência_de_Números-3</summary>
+<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<tr><th>C++              </th><th>✅</th></tr>
+<tr><th>C#               </th><th>🟥</th></tr>
+<tr><th>Python           </th><th>🟥</th></tr>
+<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+</details></ul><ul><details><summary>1184-Flores_Florescem_da_França-4</summary>
+<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<tr><th>C++              </th><th>🟥</th></tr>
+<tr><th>C#               </th><th>🟥</th></tr>
+<tr><th>Python           </th><th>✅</th></tr>
+<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+</details></ul><ul><details><summary>1192-O jogo_Matemático_de_Paula-2</summary>
+<ul><table><tr><th>C     </th><th>✅</th></tr>
+<tr><th>C++              </th><th>✅</th></tr>
+<tr><th>C#               </th><th>🟥</th></tr>
+<tr><th>Python           </th><th>🟥</th></tr>
+<tr><th>Java             </th><th>🟥</th></tr></table></ul>
 </details></ul><ul><details><summary>1246-Estacionamento-7</summary>
-<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
-<tr><th>C#               </th><th>🟥</th></tr>
-<tr><th>Python           </th><th>🟥</th></tr>
-<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+<tr><th>C#               </th><th>✅</th></tr>
+<tr><th>Python           </th><th>✅</th></tr>
+<tr><th>Java             </th><th>✅</th></tr></table></ul>
 </details></ul><ul><details><summary>1250-KiloMan-2</summary>
-<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
-<tr><th>C#               </th><th>🟥</th></tr>
-<tr><th>Python           </th><th>🟥</th></tr>
-<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+<tr><th>C#               </th><th>✅</th></tr>
+<tr><th>Python           </th><th>✅</th></tr>
+<tr><th>Java             </th><th>✅</th></tr></table></ul>
 </details></ul><ul><details><summary>1588-Ajude_a_federacao-7</summary>
 <ul><table><tr><th>C     </th><th>🟥</th></tr>
 <tr><th>C++              </th><th>🟥</th></tr>
@@ -328,8 +358,20 @@ São as embaixadinha da programação, não serve pra nada, não define jogo, ca
 <tr><th>C#               </th><th>✅</th></tr>
 <tr><th>Python           </th><th>✅</th></tr>
 <tr><th>Java             </th><th>✅</th></tr></table></ul>
+</details></ul><ul><details><summary>1238-Combinador-3</summary>
+<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<tr><th>C++              </th><th>✅</th></tr>
+<tr><th>C#               </th><th>🟥</th></tr>
+<tr><th>Python           </th><th>✅</th></tr>
+<tr><th>Java             </th><th>🟥</th></tr></table></ul>
 </details></ul></details></ul><ul><details><summary>4-Estruturas_e_Bibliotecas</summary>
-<ul><details><summary>2018-Olimpíadas_de_Natal-4</summary>
+<ul><details><summary>1069-Diamantes_e_Areia-3</summary>
+<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<tr><th>C++              </th><th>✅</th></tr>
+<tr><th>C#               </th><th>🟥</th></tr>
+<tr><th>Python           </th><th>🟥</th></tr>
+<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+</details></ul><ul><details><summary>2018-Olimpíadas_de_Natal-4</summary>
 <ul><table><tr><th>C     </th><th>🟥</th></tr>
 <tr><th>C++              </th><th>🟥</th></tr>
 <tr><th>C#               </th><th>🟥</th></tr>
@@ -353,6 +395,12 @@ São as embaixadinha da programação, não serve pra nada, não define jogo, ca
 <tr><th>C++              </th><th>🟥</th></tr>
 <tr><th>C#               </th><th>✅</th></tr>
 <tr><th>Python           </th><th>✅</th></tr>
+<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+</details></ul><ul><details><summary>1170-Blobs-3</summary>
+<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<tr><th>C++              </th><th>✅</th></tr>
+<tr><th>C#               </th><th>🟥</th></tr>
+<tr><th>Python           </th><th>🟥</th></tr>
 <tr><th>Java             </th><th>🟥</th></tr></table></ul>
 </details></ul><ul><details><summary>1198-O_Bravo_Guerreiro_Hashmat-5</summary>
 <ul><table><tr><th>C     </th><th>🟥</th></tr>
@@ -416,11 +464,11 @@ São as embaixadinha da programação, não serve pra nada, não define jogo, ca
 <tr><th>Java             </th><th>🟥</th></tr></table></ul>
 </details></ul></details></ul><ul><details><summary>6-Paradigmas</summary>
 <ul><details><summary>1029-Fibonacci,Quantas_Chamadas-4</summary>
-<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
-<tr><th>C#               </th><th>🟥</th></tr>
-<tr><th>Python           </th><th>🟥</th></tr>
-<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+<tr><th>C#               </th><th>✅</th></tr>
+<tr><th>Python           </th><th>✅</th></tr>
+<tr><th>Java             </th><th>✅</th></tr></table></ul>
 </details></ul><ul><details><summary>1033-Quantas_Chamadas_Recursivas-6</summary>
 <ul><table><tr><th>C     </th><th>🟥</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
@@ -428,23 +476,23 @@ São as embaixadinha da programação, não serve pra nada, não define jogo, ca
 <tr><th>Python           </th><th>🟥</th></tr>
 <tr><th>Java             </th><th>🟥</th></tr></table></ul>
 </details></ul><ul><details><summary>1034-Festival_de_Estátuas_de_Gelo-8</summary>
-<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
-<tr><th>C#               </th><th>🟥</th></tr>
+<tr><th>C#               </th><th>✅</th></tr>
 <tr><th>Python           </th><th>🟥</th></tr>
-<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+<tr><th>Java             </th><th>✅</th></tr></table></ul>
 </details></ul><ul><details><summary>1055-Soma_Permutante-7</summary>
-<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
-<tr><th>C#               </th><th>🟥</th></tr>
-<tr><th>Python           </th><th>🟥</th></tr>
-<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+<tr><th>C#               </th><th>✅</th></tr>
+<tr><th>Python           </th><th>✅</th></tr>
+<tr><th>Java             </th><th>✅</th></tr></table></ul>
 </details></ul><ul><details><summary>1286-Motoboy-5</summary>
-<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
-<tr><th>C#               </th><th>🟥</th></tr>
-<tr><th>Python           </th><th>🟥</th></tr>
-<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+<tr><th>C#               </th><th>✅</th></tr>
+<tr><th>Python           </th><th>✅</th></tr>
+<tr><th>Java             </th><th>✅</th></tr></table></ul>
 </details></ul><ul><details><summary>1288-Canhão_de_Destruição-5</summary>
 <ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
@@ -458,11 +506,11 @@ São as embaixadinha da programação, não serve pra nada, não define jogo, ca
 <tr><th>Python           </th><th>✅</th></tr>
 <tr><th>Java             </th><th>🟥</th></tr></table></ul>
 </details></ul><ul><details><summary>1932-Bolsa_de_Valores-7</summary>
-<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
-<tr><th>C#               </th><th>🟥</th></tr>
-<tr><th>Python           </th><th>🟥</th></tr>
-<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+<tr><th>C#               </th><th>✅</th></tr>
+<tr><th>Python           </th><th>✅</th></tr>
+<tr><th>Java             </th><th>✅</th></tr></table></ul>
 </details></ul><ul><details><summary>2026-Árvore_de_Natal-5</summary>
 <ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
@@ -574,11 +622,11 @@ São as embaixadinha da programação, não serve pra nada, não define jogo, ca
 <tr><th>Python           </th><th>🟥</th></tr>
 <tr><th>Java             </th><th>🟥</th></tr></table></ul>
 </details></ul><ul><details><summary>1875-Tribol-3</summary>
-<ul><table><tr><th>C     </th><th>🟥</th></tr>
+<ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>
-<tr><th>C#               </th><th>🟥</th></tr>
-<tr><th>Python           </th><th>🟥</th></tr>
-<tr><th>Java             </th><th>🟥</th></tr></table></ul>
+<tr><th>C#               </th><th>✅</th></tr>
+<tr><th>Python           </th><th>✅</th></tr>
+<tr><th>Java             </th><th>✅</th></tr></table></ul>
 </details></ul><ul><details><summary>2158-Ajudando_o_Tio_Cláudio-5</summary>
 <ul><table><tr><th>C     </th><th>✅</th></tr>
 <tr><th>C++              </th><th>✅</th></tr>

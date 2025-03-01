@@ -15,9 +15,9 @@ def listar_arquivos(diretorio: str) -> dict:
         for arquivo in arquivos:
             caminho_completo = os.path.join(raiz, arquivo)
             caminho_completo += "\n"
-            info = os.path.normpath(caminho_completo).split(os.sep)  # Normaliza o caminho
+            info = os.path.normpath(caminho_completo).split(os.sep)  
 
-            if len(info) < 3:  # Evita acesso inválido
+            if len(info) < 3:  
                 continue
 
             if info[1] not in ans:
