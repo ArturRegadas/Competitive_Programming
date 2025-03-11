@@ -42,11 +42,13 @@ def CreateCommand(ans: dict) -> str:
             py = ".py\n" in ans[i][j]
             cs = ".cs\n" in ans[i][j]
             java = ".java\n" in ans[i][j]
+            js = ".js\n" in ans[i][j]
             command += f"<ul><table><tr><th>C     </th><th>{'✅' if c else '🟥'}</th></tr>\n"
             command += f"<tr><th>C++              </th><th>{'✅' if cpp else '🟥'}</th></tr>\n"
             command += f"<tr><th>C#               </th><th>{'✅' if cs else '🟥'}</th></tr>\n"
             command += f"<tr><th>Python           </th><th>{'✅' if py else '🟥'}</th></tr>\n"
-            command += f"<tr><th>Java             </th><th>{'✅' if java else '🟥'}</th></tr></table></ul>\n"
+            command += f"<tr><th>Java             </th><th>{'✅' if java else '🟥'}</th></tr>\n"
+            command += f"<tr><th>JavaScript       </th><th>{'✅' if js else '🟥'}</th></tr></table></ul>\n"
             command += "</details></ul>"
         command += "</details></ul>"
     return command
