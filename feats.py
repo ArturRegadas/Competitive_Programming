@@ -55,7 +55,7 @@ def CreateCommand(ans: dict) -> str:
 
 def FP() -> str:
     with open("README.md", 'r', encoding="utf-8") as file:
-        splited = file.read().split("<h1>Resolvidos</h1>")
+        splited = file.read().split("<h1>Resolvidos(Beecrowd)</h1>")
         return splited[0]
 
 def changeMD(command: str) -> None:
