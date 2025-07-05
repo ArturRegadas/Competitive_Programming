@@ -63,4 +63,4 @@ def changeMD(command: str) -> None:
         file.write(command)
 
 diretorio_base = "Beecrowd/"
-changeMD(FP() + CreateCommand(listar_arquivos(diretorio_base)))
+changeMD(CreateCommand(listar_arquivos(diretorio_base)))
