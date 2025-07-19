@@ -2,10 +2,10 @@ import os
 import subprocess
 
 # Caminho para a pasta com os arquivos .in e .sol
-test_folder = "C:/Users/ahlre/Documents/GitProjects/Competitive_Programming/Cases/2023f2pj_grupos/1"
+test_folder = "C:/Users/ahlre/Documents/GitProjects/Competitive_Programming/Cases/2023f2p2_barcos/5"
 
 # Caminho para o executável ou script da sua solução
-solution_executable = "C:/Users/ahlre/Documents/GitProjects/Competitive_Programming/OBI/2023/2°fase/trabalhos.exe"  # Pode ser './a.sol', 'python solucao.py', etc.
+solution_executable = "C:/Users/ahlre/Documents/GitProjects/Competitive_Programming/OBI/2023/2°fase/barcos.exe"  # Pode ser './a.sol', 'python solucao.py', etc.
 
 # Iterar por todos os arquivos .in na pasta
 for filename in os.listdir(test_folder):
